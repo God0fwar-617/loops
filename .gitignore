@@ -1,0 +1,14 @@
+*.class
+*.jar
+
+*.bak
+*.tmp
+*~
+
+*.zip
+*.tgz
+*.tar
+*.bz
+*.gz
+
+*.log
